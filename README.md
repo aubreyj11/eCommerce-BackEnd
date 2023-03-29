@@ -32,7 +32,7 @@ MySql (mysql2), Express, Sequelize, and other dependencies (ex. dotenv) must be 
 
 <br><br><br>
 Watch the demo of how to use this application here: <br><br>
-[ECommerce-Insomnia-Walkthroughwebm.webm](https://user-images.githubusercontent.com/116928146/228399221-879a247d-745f-4643-b5b5-0ca5a4b2ebb1.webm)
+[E-commerce Back End Code Walkthrough](https://user-images.githubusercontent.com/116928146/228399221-879a247d-745f-4643-b5b5-0ca5a4b2ebb1.webm)
 
 
 <br><br>
